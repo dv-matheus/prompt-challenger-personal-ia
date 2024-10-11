@@ -23,6 +23,7 @@ O projeto deve ser feito utilizando as boas práticas de prompt engineer.
 - [💪 Biotipos Corporais](#-biotipos-corporais)
 - [📅 Dias Disponíveis para Treino](#-dias-disponíveis-para-treino)
 - [🏋️ Tipos de Exercícios](#️-tipos-de-exercícios)
+- [✔️ Objetivos](#-objetivos)
 - [🛠️ Regras de negócio](#️-regras-de-negócio)
 - [📖 Material de Apoio](#-material-de-apoio)
 - [🎯 Prompt de Resposta Proposto](#-prompt-de-resposta-proposto)
@@ -101,6 +102,13 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 | <img src=".github/assets/hiit.png" width="50%" height="50%">     | **HIIT**           | Treinos intervalados de alta intensidade, ótimos para queima de gordura.                                      |
 
 ---
+
+
+## ✔️ Objetivos
+
+- **Ganho de massa muscular**: Treino de alta intensidade com cardios de baixa intensidade e curta duração
+- **Diminuição de gordura corporal**: Treinos de intensidade variada (treinos moderados e cardios de baixa intensidade e longa duração)
+- **Manter o peso**: Treinos com intensidades moderadas
 
 ## 🛠️ Regras de negócio
 
